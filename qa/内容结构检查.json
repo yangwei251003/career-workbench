@@ -1,0 +1,9 @@
+{
+  "catalogCount": 40,
+  "uniqueIds": true,
+  "uniquePrompts": true,
+  "allRequiredFields": true,
+  "allSourcesResolved": true,
+  "runtimeDependencies": "Python 3.12 standard library only",
+  "sourceDate": "2026-10-24"
+}

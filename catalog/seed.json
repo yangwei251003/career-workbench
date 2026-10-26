@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "revision": 0,
+  "projectStates": {
+    "01": {
+      "status": "idea",
+      "favorite": true,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "02": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "03": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "04": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "05": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "06": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "07": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "08": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "09": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "10": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "11": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "12": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "13": {
+      "status": "active",
+      "favorite": true,
+      "notes": "演示主项目",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "14": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "15": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "16": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "17": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "18": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "19": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "20": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "21": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "22": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "23": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "24": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "25": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "26": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "27": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "28": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "29": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "30": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "31": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "32": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "33": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "34": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "35": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "36": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "37": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "38": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "39": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    "40": {
+      "status": "idea",
+      "favorite": false,
+      "notes": "候选蓝图，不表示已开发",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    }
+  },
+  "evidence": [
+    {
+      "id": "e01",
+      "title": "示例：一次电学科普活动",
+      "category": "实践",
+      "contribution": "示例用户整理了低压安全知识演示与讲解提纲。",
+      "source": "docs/examples/demo-context.md",
+      "boundary": "虚构示例，用于展示贡献和边界的记录方式；不是实际活动成果。",
+      "status": "demo",
+      "date": "2026-10-24",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    {
+      "id": "e02",
+      "title": "示例：需求访谈练习",
+      "category": "能力练习",
+      "contribution": "与自愿参与的同伴进行了模拟需求提问。",
+      "source": "docs/examples/demo-context.md",
+      "boundary": "虚构练习，不是客户需求、订单或业务效果。",
+      "status": "demo",
+      "date": "2026-10-24",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    {
+      "id": "e03",
+      "title": "示例：本地工具原型",
+      "category": "AI协作项目",
+      "contribution": "整理输入、输出和验收场景，并通过AI协作制作原型。",
+      "source": "docs/examples/demo-context.md",
+      "boundary": "合成演示，不代表独立掌握全部技术或已有用户采用。",
+      "status": "demo",
+      "date": "2026-10-24",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f01",
+      "subject": "演示培训课程",
+      "field": "总学时",
+      "scope": "仅供演示",
+      "value": "96",
+      "unit": "学时",
+      "source": "docs/examples/demo-context.md",
+      "sourceDate": "2026-10-24",
+      "validUntil": "",
+      "status": "pending",
+      "reviewer": "",
+      "confirmedAt": "",
+      "notes": "虚构冲突示例；不对应任何机构真实课程，两条均待核实，不能作为可用底稿。",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    },
+    {
+      "id": "f02",
+      "subject": "演示培训课程",
+      "field": "总学时",
+      "scope": "仅供演示",
+      "value": "112",
+      "unit": "学时",
+      "source": "docs/examples/demo-context.md",
+      "sourceDate": "2026-10-24",
+      "validUntil": "",
+      "status": "pending",
+      "reviewer": "",
+      "confirmedAt": "",
+      "notes": "虚构冲突示例；不对应任何机构真实课程，两条均待核实，不能作为可用底稿。",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "d01",
+      "title": "示例：先验证一个工具是否有用",
+      "kind": "就业",
+      "assumptions": "先用小范围合成数据验证流程。",
+      "evidence": "尚未收集真实使用反馈。",
+      "nextStep": "邀请一位自愿参与者试用演示，并记录具体问题。",
+      "exitCondition": "现有工具足够或没有持续使用需求时停止扩展。",
+      "reviewDate": "2027-01-24",
+      "status": "open",
+      "outcome": "",
+      "createdAt": "2026-10-24T16:20:00+08:00",
+      "updatedAt": "2026-10-24T16:20:00+08:00"
+    }
+  ],
+  "reviews": [],
+  "history": []
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173e35">
+  <title>职业发展工作台 · 示例用户</title>
+  <link rel="stylesheet" href="/style.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div class="shell">
+    <aside class="sidebar" aria-label="工作台导航">
+      <a class="brand" href="#overview" aria-label="职业发展工作台首页"><span class="brand-mark" aria-hidden="true">生长<br>手册</span><span>职业发展工作台<small>CAREER FIELD NOTES</small></span></a>
+      <div class="sidebar-profile"><span class="eyebrow">个人长期计划 / 2026—2036</span><strong id="profile-name">示例用户</strong><p>让能力、作品与真实机会<br>一起积累。</p></div>
+      <nav id="navigation" class="navigation"></nav>
+      <div class="sidebar-bottom"><span class="local-dot" aria-hidden="true"></span>记录保存在本机<p>不是预测人生，而是持续校准方向。</p><button class="text-button" id="refresh-button" type="button">刷新工作台</button></div>
+    </aside>
+    <div class="page-shell">
+      <header class="topbar"><span id="breadcrumb">个人工作台</span><div><span id="today-label"></span><button class="text-button topbar-refresh" id="refresh-top-button" type="button" aria-label="刷新工作台">刷新</button><span class="edition">VOL. 01</span></div></header>
+      <main id="main" tabindex="-1"><div class="loading-state" role="status"><span class="loading-line"></span><h1>正在打开你的成长手册</h1><p>读取路线、项目与本机记录。</p></div></main>
+      <footer class="page-footer"><span>以证据积累信心，以行动修正判断。</span><span>2026 → 2036</span></footer>
+    </div>
+  </div>
+  <dialog id="project-dialog" class="drawer" aria-labelledby="project-dialog-title"><div id="project-dialog-content"></div></dialog>
+  <dialog id="editor-dialog" class="editor-dialog" aria-labelledby="editor-dialog-title"><div id="editor-dialog-content"></div></dialog>
+  <dialog id="confirm-dialog" class="confirm-dialog" aria-labelledby="confirm-dialog-title"><div id="confirm-dialog-content"></div></dialog>
+  <div id="toast-region" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>

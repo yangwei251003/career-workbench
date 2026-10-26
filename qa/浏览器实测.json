@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "browser": "145.0.7632.6",
+  "checks": [
+    {
+      "case": "真实浏览器加载个性化首页与40项目目录",
+      "status": "PASS"
+    },
+    {
+      "case": "1/2/5/10年三情景路线完整显示",
+      "status": "PASS"
+    },
+    {
+      "case": "项目名称/类别/阶段组合筛选与空结果",
+      "status": "PASS"
+    },
+    {
+      "case": "详情/复制提示词/下载卡片/收藏/进度持久化",
+      "status": "PASS"
+    },
+    {
+      "case": "原始96/112口径冲突保留且禁止作为可用底稿导出",
+      "status": "PASS"
+    },
+    {
+      "case": "新增确认事实/冲突阻断/退役旧说法/底稿精确排除",
+      "status": "PASS"
+    },
+    {
+      "case": "成果增改读回/刷新持久化/不执行录入HTML与危险链接",
+      "status": "PASS"
+    },
+    {
+      "case": "两窗口冲突提示、保留草稿、刷新后明确再次保存",
+      "status": "PASS"
+    },
+    {
+      "case": "决策与试用反馈真实保存，关联项目可追溯",
+      "status": "PASS"
+    },
+    {
+      "case": "完整备份下载/删除/非法导入拒绝/预览不写入/确认恢复",
+      "status": "PASS"
+    },
+    {
+      "case": "七视图桌面布局无横向溢出",
+      "status": "PASS"
+    },
+    {
+      "case": "390px窄屏七视图/详情与键盘关闭可用",
+      "status": "PASS"
+    },
+    {
+      "case": "无浏览器脚本异常，无外部网络资源请求",
+      "status": "PASS"
+    }
+  ],
+  "scriptErrors": [],
+  "externalRequests": [],
+  "dataIsolation": "TemporaryDirectory; production data untouched"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cards": 40,
+  "roadmap": 4,
+  "capabilities": 8,
+  "searchAndFilters": "PASS",
+  "promptReadable": "PASS",
+  "scriptErrors": [],
+  "networkRequests": [],
+  "mode": "file://; no server required"
+}
